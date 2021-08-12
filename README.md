@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Buiding Projects that tends to make life easier
-- 🌱 I’m currently learning React/Redux
+- 🌱 I currently work with React/Redux, MongoDb, Express and Node
 - 👯 I’m looking to collaborate on Projects Related to React
 - 📫 How to reach me: emmanuelnwanochie247@gmail.com
 - 😄 Pronouns: Mr.
