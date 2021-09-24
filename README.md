@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Nwanochie Emmanuel
-
-![Web 1920 – 1](https://user-images.githubusercontent.com/53648442/127754031-9c037e6c-046e-4015-b428-c342eff05b00.png)
+![127754031-9c037e6c-046e-4015-b428-c342eff05b00](https://user-images.githubusercontent.com/53648442/134704090-c7aa2c40-2911-42d1-8456-8e2e74e6a723.png)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wenotch&show_icons=true) 
 - 🔭 I’m currently working on Buiding Projects that tends to make life easier
