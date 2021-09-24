@@ -2,7 +2,8 @@
  
 ![emmanuelnwanochie](https://user-images.githubusercontent.com/53648442/134704221-9c3bc114-d0a0-4369-aff0-e1420ec0c725.png)
 
-![Profile views](https://gpvc.arturio.dev/wenotch)
+![Profile views](https://gpvc.arturio.dev/wenotch) 
+d
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wenotch&show_icons=true) 
 - 🔭 I’m currently working on Buiding Projects that tends to make life easier
 - 🌱 I currently work with React/Redux, MongoDb, Express and Node
