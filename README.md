@@ -5,6 +5,8 @@
 ![Profile views](https://gpvc.arturio.dev/wenotch) 
 <!-- -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wenotch&show_icons=true) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenotch)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on Buiding Projects that tends to make life easier
 - 🌱 I currently work with React/Redux, MongoDb, Express and Node
 - 👯 I’m looking to collaborate on Projects Related to React
