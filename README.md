@@ -5,6 +5,7 @@
 ![Profile views](https://gpvc.arturio.dev/wenotch) 
 <!-- -->
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wenotch&show_icons=true&count_private=true) 
 
 - 🔭 I’m currently working on Buiding Projects that tends to make life easier
 - 🌱 I currently work with React/Redux, MongoDb, Express and Node
