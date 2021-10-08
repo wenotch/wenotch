@@ -5,7 +5,7 @@
 ![Profile views](https://gpvc.arturio.dev/wenotch) 
 <!-- -->
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=wenotch&how_icons=true&count_private=true&theme=tokyonight" alt="akash-chowrasia" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wenotch&show_icons=true&theme=tokyonight&layout=compact" alt="akash-chowrasia" />|
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=wenotch&how_icons=true&count_private=true&theme=tokyonight" alt="akash-chowrasia" width="410" /> | 
 
 - 🔭 I’m currently working on Buiding Projects that tends to make life easier
 - 🌱 I currently work with React/Redux, MongoDb, Express and Node
@@ -17,7 +17,7 @@
 
 💻 **Languages and Tools:** 🛠️<br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
