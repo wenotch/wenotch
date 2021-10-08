@@ -5,7 +5,7 @@
 ![Profile views](https://gpvc.arturio.dev/wenotch) 
 <!-- -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wenotch&show_icons=true&count_private=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wenotch&show_icons=true&count_private=true) <img align="center" src="https://github-readme-stats.vercel.app/api?username=tresorsawasawa&show_icons=true&theme=tokyonight" alt="akash-chowrasia" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tresorsawasawa&show_icons=true&theme=tokyonight&layout=compact" alt="akash-chowrasia" />|
 
 - 🔭 I’m currently working on Buiding Projects that tends to make life easier
 - 🌱 I currently work with React/Redux, MongoDb, Express and Node
