@@ -5,9 +5,9 @@
 ![Profile views](https://gpvc.arturio.dev/wenotch) 
 <!-- -->
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=wenotch&how_icons=true&count_private=true&theme=tokyonight" alt="akash-chowrasia" width="410" /> | 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=wenotch&how_icons=true&count_private=true" alt="akash-chowrasia" width="410" /> | 
 
-- 🔭 I’m currently working on Buiding Projects that tends to make life easier
+- 🔭 I’m currently working on Buiding Projects that tends satisfy customer and business needs
 - 🌱 I currently work with React/Redux, MongoDb, Express and Node
 - 👯 I’m looking to collaborate on Projects Related to React
 - 📫 How to reach me: emmanuelnwanochie247@gmail.com
