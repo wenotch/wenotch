@@ -2,11 +2,16 @@
  
 ![emmanuelnwanochie](https://user-images.githubusercontent.com/53648442/134704221-9c3bc114-d0a0-4369-aff0-e1420ec0c725.png)
 
-![Profile views](https://gpvc.arturio.dev/wenotch) 
-  ![](https://github.com/wenotch/wenotch/blob/wenotch/generated/languages.svg)
+![Profile views](https://gpvc.arturio.dev/wenotch)  
 <!-- -->
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wenotch&how_icons=true&count_private=true" alt="akash-chowrasia" width="410" /> | 
+ <a>
+  
+  ![](https://github.com/MrMissx/MrMissx/blob/MrMiss/generated/overview.svg)
+  ![](https://github.com/MrMissx/MrMissx/blob/MrMiss/generated/languages.svg)
+ 
+</a>
 
 - 🔭 I’m currently working on Buiding Projects that tends satisfy customer and business needs
 - 🌱 I currently work with React/Redux, MongoDb, Express and Node
