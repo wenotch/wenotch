@@ -7,9 +7,7 @@
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wenotch&how_icons=true&count_private=true" alt="akash-chowrasia" width="410" /> | 
  <a>
-  
-  ![](https://github.com/wenotch/wenotch/blob/wenotch/generated/overview.svg)
-  ![](https://github.com/wenotch/wenotch/blob/wenotch/generated/languages.svg)
+ 
  
 </a>
 
