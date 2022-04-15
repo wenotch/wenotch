@@ -1,11 +1,11 @@
 ### Hi there 👋, I am Emmanuel Nwanochie 
  
-![emmanuelnwanochie](https://user-images.githubusercontent.com/53648442/134704221-9c3bc114-d0a0-4369-aff0-e1420ec0c725.png)
+![emmanuelnwanochie]|(https://user-images.githubusercontent.com/53648442/163573685-8619c321-fcfb-4518-8f94-a6c57684c96e.jpg)
 
 ![Profile views](https://gpvc.arturio.dev/wenotch)  
 <!-- -->
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=wenotch&how_icons=true&count_private=true" alt="akash-chowrasia" width="410" /> | ![1637885461738](https://user-images.githubusercontent.com/53648442/163573685-8619c321-fcfb-4518-8f94-a6c57684c96e.jpg)
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=wenotch&how_icons=true&count_private=true" alt="akash-chowrasia" width="410" /> 
 
  <a>
  
