@@ -5,7 +5,8 @@
 ![Profile views](https://gpvc.arturio.dev/wenotch)  
 <!-- -->
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=wenotch&how_icons=true&count_private=true" alt="akash-chowrasia" width="410" /> | 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=wenotch&how_icons=true&count_private=true" alt="akash-chowrasia" width="410" /> | ![1637885461738](https://user-images.githubusercontent.com/53648442/163573685-8619c321-fcfb-4518-8f94-a6c57684c96e.jpg)
+
  <a>
  
  
