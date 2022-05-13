@@ -1,7 +1,5 @@
-### Hi there 👋, I am Emmanuel Nwanochie 
+### Hi there 👋, I am Emmanuel 
  
-![emmanuelnwanochie](https://user-images.githubusercontent.com/53648442/163573685-8619c321-fcfb-4518-8f94-a6c57684c96e.jpg)
-
 ![Profile views](https://gpvc.arturio.dev/wenotch)  
 <!-- -->
 
